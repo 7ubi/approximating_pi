@@ -1,4 +1,4 @@
-# approximating_pi
+# approximating pi
 Approximation of pi in processing
 
 Formula used:
